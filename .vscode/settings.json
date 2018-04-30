@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/vitor/.local/share/virtualenvs/flask-1.0-spesiEQi/bin/",
+    "editor.renderWhitespace": "all",
+    "python.autoComplete.addBrackets": true,
+    "python.unitTest.unittestEnabled": true,
+    "editor.renderControlCharacters": true
+}
